@@ -7,4 +7,4 @@ The notebook contains 2 parts:
 - Classification model (CharCNN)
 
 ---
-This is the project with which I won the *Crowdstrike Workshop 2022*
+This is the project with which I won the *Crowdstrike Workshop 2022*.
